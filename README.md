@@ -1,0 +1,1 @@
+Fun topics I wanted to explore while improving my Python skills. 
